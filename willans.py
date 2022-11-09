@@ -23,5 +23,4 @@ def factorial(n):
 
 if __name__ == "__main__":
     print(prime(25), "prime")
-    print("nigga")
 
